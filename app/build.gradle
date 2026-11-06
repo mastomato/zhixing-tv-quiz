@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'cn.zhixing.quiztv'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'cn.zhixing.quiztv'
+        minSdk 21
+        targetSdk 28
+        versionCode 7
+        versionName '1.0.0'
+    }
+}
