@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+local.properties
+build/
+app/build/
+*.apk
+*.apk.idsig
+*.keystore
+*.jks
+.DS_Store
+POHW-LICENSE
+POHW-NOTICE.md
+POHW-QUESTION-BANK.md
